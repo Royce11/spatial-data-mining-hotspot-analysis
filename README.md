@@ -12,7 +12,7 @@ In this analysis, the concepts of Spatial Statistics is applied on spatio-tempor
 The Problem Definition page is here: http://sigspatial2016.sigspatial.org/giscup2016/problem
 The Submit Format page is here: http://sigspatial2016.sigspatial.org/giscup2016/submit
 
-#### Input Output Specification
+## Input Output Specification
 
 ### Input parameters
 
