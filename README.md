@@ -9,7 +9,9 @@ In this analysis, a range join operation is performed on a rectangle datasets an
 
 ### Hot cell analysis
 In this analysis, the concepts of Spatial Statistics is applied on spatio-temporal big data in order to identify statistically significant spatial hotspots.The topic of this task is from ACM SIGSPATIAL GISCUP 2016.
+
 The Problem Definition page is here: http://sigspatial2016.sigspatial.org/giscup2016/problem
+
 The Submit Format page is here: http://sigspatial2016.sigspatial.org/giscup2016/submit
 
 ## Input Output Specification
